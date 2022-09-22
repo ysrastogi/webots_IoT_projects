@@ -1,0 +1,18 @@
+valve1:
+  IrrigationDone: false
+  IrrigationOccuring: true
+valve2:
+  IrrigationDone: false
+  IrrigationOccuring: true
+valve3:
+  IrrigationDone: false
+  IrrigationOccuring: true
+valve4:
+  IrrigationDone: false
+  IrrigationOccuring: true
+valve5:
+  IrrigationDone: false
+  IrrigationOccuring: true
+valve6:
+  IrrigationDone: false
+  IrrigationOccuring: true
