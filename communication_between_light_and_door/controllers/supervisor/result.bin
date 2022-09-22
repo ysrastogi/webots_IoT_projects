@@ -1,0 +1,42 @@
+Team_ID
+eYIC#714
+door_translation
+[3.95, 0.0, 3.89]
+start_pedestrian
+[4.0, 1.3188727272727272, 5.0512000000000015]
+light_status
+<controller.Field; proxy of <Swig Object of type 'webots::Field *' at 0x0000022AB2F68B70> >
+light_value
+False
+buffer
+b"S('192.168.101.4', 8"
+client_ip
+b"C('192.168.101.4', 8"
+server_ip
+b"S('192.168.101.4', 8"
+human_values1
+[4.0, 1.298, 4.144]
+ps_values1
+0.0026685076449166276
+message1
+Door is not opening
+human_values2
+[4.0, 1.340981818181818, 3.0496000000000003]
+ps_values2
+-1.570658352052717
+message2
+Door is not opened
+human_values3
+[4.0, 1.2468000000000006, 3.9663999999999993]
+ps_values3
+-0.5388597064252869
+message3
+Door is not closing
+human_values4
+[4.0, 1.25, 5.08]
+ps_values4
+0.010091309022979777
+message4
+Door is not closed
+light_flag
+0
