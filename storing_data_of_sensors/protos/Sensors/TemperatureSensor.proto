@@ -1,0 +1,22 @@
+#VRML_SIM R2021b utf8
+# license: Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+# This a custom proto created using Smartmicro UMR-A0 type 29 sensor model based on the Radar node.
+# The camera node have no role in the sensor value.The sensor value only depend upon the orientation of sensor in the Farm environment
+# This model was used to get the Temperature of the Farm environment.
+
+PROTO TemperatureSensor [
+  field   SFVec3f    translation    0 0 0
+  field   SFRotation rotation       0 1 0 0
+  field   MFNode     children       []
+  field   SFString   name           "Temperature sensor"
+  hiddenField   SFString   model          "Temperature"
+]
+{
+Camera {
+  translation IS translation
+  rotation IS rotation
+  children IS children
+  name IS name
+  model IS model
+}
+}
